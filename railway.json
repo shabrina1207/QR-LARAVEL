@@ -1,0 +1,1 @@
+{"build": {"builder": "nixpacks"}, "deploy": {"startCommad": "phpartisan migrate --force && vendor/bin/heroku-php-apache2 public/"}}
